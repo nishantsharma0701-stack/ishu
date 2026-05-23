@@ -1,0 +1,6 @@
+{
+  "name": "The Gentlemen Fashion",
+  "description": "A luxury, premium, AI-powered men’s fashion e-commerce platform and personal fashion stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
